@@ -1,0 +1,33 @@
+# SessionApp
+
+SessionApp is an Android application built using **Kotlin, Jetpack Compose, Room Database, and CameraX**. The app allows users to create, view, and manage sessions with optional image attachments.
+
+---
+
+## Features
+
+- Add, view, and delete session entries.
+- Store session data locally using **Room Database**.
+- Capture images and attach them to sessions using **CameraX**.
+- Modern UI with **Jetpack Compose**.
+- Coroutine-based asynchronous operations for smooth performance.
+
+---
+
+
+## Technologies Used
+
+- **Kotlin** – Main programming language
+- **Jetpack Compose** – Modern UI framework
+- **Room** – Local database for session storage
+- **CameraX** – Capture and save images
+- **Coroutines** – Asynchronous operations
+- **MVVM Architecture** – Structured and maintainable code
+
+---
+
+## Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/SessionApp.git
